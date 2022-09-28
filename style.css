@@ -1,0 +1,29 @@
+img {
+    height: 200px;
+    width: 300px;
+    
+}
+#footer {
+    background-position-y: bottom;
+}
+h1 {
+    font-family: fantasy;
+    font-style: normal;
+    font-weight: 650;
+}
+h4 {
+    font-style: italic;
+    color:red;
+}
+#camera {
+    height:400px;
+    width:500px;
+    border-color:red;
+    border-style:solid;
+}
+img:hover,
+img:focus{
+
+  height: 300px;
+  width:450px;
+}
